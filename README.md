@@ -79,7 +79,7 @@ sudo usermod -aG docker jenkins
 
 Решение 2:
 
-![Настройки 2.png](https://github.com/KargapoltcevKS/CI-CD-DewOps/blob/main/img/Настройки%2.png)
+![Настройки 2.png](https://github.com/KargapoltcevKS/CI-CD-DewOps/blob/main/img/Настройки%202.png)
 ![Консоль.png](https://github.com/KargapoltcevKS/CI-CD-DewOps/blob/main/img/Консоль.png)
 
 ---
