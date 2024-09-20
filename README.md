@@ -61,11 +61,11 @@ sudo usermod -aG docker jenkins
 Пароль берем из папки: 
 /var/lib/jenkins/secrets/initialAdminPassword
 
-![Настройки 1.png](https://github.com/KargapoltcevKS/CI-CD-DewOps/blob/main/img/Настройки1.png)
-![Настройки 1-2.png](https://github.com/KargapoltcevKS/CI-CD-DewOps/blob/main/img/Настройки1-2.png)
-![Вывод консоли 1.png](https://github.com/KargapoltcevKS/CI-CD-DewOps/blob/main/img/выводконсоли1.png)
-![Вывод консоли 2.png](https://github.com/KargapoltcevKS/CI-CD-DewOps/blob/main/img/выводконсоли2.png)
-![Результат сборки.png](https://github.com/KargapoltcevKS/CI-CD-DewOps/blob/main/img/результатсборки.png)
+![Настройки1.png](https://github.com/KargapoltcevKS/CI-CD-DewOps/blob/main/img/Настройки%201.png)
+![Настройки 1-2.png](https://github.com/KargapoltcevKS/CI-CD-DewOps/blob/main/img/Настройки%1-2.png)
+![Вывод консоли 1.png](https://github.com/KargapoltcevKS/CI-CD-DewOps/blob/main/img/вывод%консоли%1.png)
+![Вывод консоли 2.png](https://github.com/KargapoltcevKS/CI-CD-DewOps/blob/main/img/вывод%консоли%2.png)
+![Результат сборки.png](https://github.com/KargapoltcevKS/CI-CD-DewOps/blob/main/img/результат%сборки.png)
 
 ---
 
@@ -79,7 +79,7 @@ sudo usermod -aG docker jenkins
 
 Решение 2:
 
-![Настройки 2.png](https://github.com/KargapoltcevKS/CI-CD-DewOps/blob/main/img/Настройки2.png)
+![Настройки 2.png](https://github.com/KargapoltcevKS/CI-CD-DewOps/blob/main/img/Настройки%2.png)
 ![Консоль.png](https://github.com/KargapoltcevKS/CI-CD-DewOps/blob/main/img/Консоль.png)
 
 ---
