@@ -108,7 +108,7 @@ http://192.168.123.4:8081/repository/kks_rawhosted/ --upload-file  ubuntu-bionic
 
 
 ![репозиторий.png](/home/kks1/CI-CD-DewOps/img/Репозиторий.png)
-![pipeline.png](/home/kks1/CI-CD-DewOps/img/pipeline.png)
+![pipeline.png]([/home/kks1/CI-CD-DewOps/img/pipeline.png](https://github.com/KargapoltcevKS/CI-CD-DewOps/blob/main/img/pipeline.png))
 ![Консоль.png](/home/kks1/CI-CD-DewOps/img/Консоль.png)
 
 ---
