@@ -107,7 +107,7 @@ sh 'curl -u admin:2k1a3r8a34
 http://192.168.123.4:8081/repository/kks_rawhosted/ --upload-file  ubuntu-bionic:8082/hello-world.tgz -v'
 
 
-![репозиторий.png](https://github.com/KargapoltcevKS/CI-CD-DewOps/blob/main/img/репозитори.png)
+![репозиторий.png](https://github.com/KargapoltcevKS/CI-CD-DewOps/blob/main/img/репозиторий.png)
 ![pipeline.png](https://github.com/KargapoltcevKS/CI-CD-DewOps/blob/main/img/pipeline.png)
 ![Консоль.png](https://github.com/KargapoltcevKS/CI-CD-DewOps/blob/main/img/Консоль.png) 
 
