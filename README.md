@@ -61,11 +61,11 @@ sudo usermod -aG docker jenkins
 Пароль берем из папки: 
 /var/lib/jenkins/secrets/initialAdminPassword
 
-![Настройки 1.png](/home/kks1/CI-CD-DewOps/img/Настройки 1.png)
-![Настройки 1-2.png](/home/kks1/CI-CD-DewOps/img/Настройки 1-2.png)
-![Вывод консоли 1.png](/home/kks1/CI-CD-DewOps/img/Вывод консоли 1.png)
-![Вывод консоли 2.png](/home/kks1/CI-CD-DewOps/img/Вывод консоли 2.png)
-![Результат сборки.png](img/Результат сборки.png)
+![Настройки 1.png](https://github.com/KargapoltcevKS/CI-CD-DewOps/blob/main/img/Настройки1.png)
+![Настройки 1-2.png](https://github.com/KargapoltcevKS/CI-CD-DewOps/blob/main/img/Настройки1-2.png)
+![Вывод консоли 1.png](https://github.com/KargapoltcevKS/CI-CD-DewOps/blob/main/img/выводконсоли1.png)
+![Вывод консоли 2.png](https://github.com/KargapoltcevKS/CI-CD-DewOps/blob/main/img/выводконсоли2.png)
+![Результат сборки.png](https://github.com/KargapoltcevKS/CI-CD-DewOps/blob/main/img/результатсборки.png)
 
 ---
 
@@ -79,8 +79,8 @@ sudo usermod -aG docker jenkins
 
 Решение 2:
 
-![Настройки 2.png](/home/kks1/CI-CD-DewOps/img/Настройки 2.png)
-![Консоль.png](/home/kks1/CI-CD-DewOps/img/Консоль.png)
+![Настройки 2.png](https://github.com/KargapoltcevKS/CI-CD-DewOps/blob/main/img/Настройки2.png)
+![Консоль.png](https://github.com/KargapoltcevKS/CI-CD-DewOps/blob/main/img/Консоль.png)
 
 ---
 
@@ -107,8 +107,8 @@ sh 'curl -u admin:2k1a3r8a34
 http://192.168.123.4:8081/repository/kks_rawhosted/ --upload-file  ubuntu-bionic:8082/hello-world.tgz -v'
 
 
-![репозиторий.png](/home/kks1/CI-CD-DewOps/img/Репозиторий.png)
-![pipeline.png]([/home/kks1/CI-CD-DewOps/img/pipeline.png](https://github.com/KargapoltcevKS/CI-CD-DewOps/blob/main/img/pipeline.png))
-![Консоль.png](/home/kks1/CI-CD-DewOps/img/Консоль.png)
+![репозиторий.png](https://github.com/KargapoltcevKS/CI-CD-DewOps/blob/main/img/репозитори.png)
+![pipeline.png](https://github.com/KargapoltcevKS/CI-CD-DewOps/blob/main/img/pipeline.png)
+![Консоль.png](https://github.com/KargapoltcevKS/CI-CD-DewOps/blob/main/img/Консоль.png) 
 
 ---
